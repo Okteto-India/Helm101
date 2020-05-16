@@ -2,13 +2,13 @@
 
 This chart provides example of some of the important features of Helm.
 
-The chart installs a [guestbook](https://github.com/IBM/guestbook/tree/master/v1) application.
+The chart installs a [guestbook]() application.
 
 ## Installing the Chart
 
 Add the repository to your local environment:
 ```bash
-$ helm repo add my-repo https://ibm.github.io/helm101/
+$ helm repo add my-repo https://okteto-india.github.io/Helm101/
 ```
 
 To install the chart with the default release name:
